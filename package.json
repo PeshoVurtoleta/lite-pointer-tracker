@@ -1,7 +1,7 @@
 {
   "name": "lite-pointer-tracker",
   "author": "Zahary Shinikchiev <shinikchiev@yahoo.com>",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lightweight pointer events manager — unifies mouse, touch, and pen into a clean start/move/end API with ghost-drag detection and pointer capture.",
   "type": "module",
   "main": "PointerTracker.js",
@@ -16,6 +16,7 @@
   "files": [
     "PointerTracker.js",
     "PointerTracker.d.ts",
+    "llms.txt",
     "README.md"
   ],
   "scripts": {
